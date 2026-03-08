@@ -19,4 +19,4 @@ Other things worth noting:
   npm install && npm start
 
 Stack: React · useReducer · CSS  
-Live: [#](#)
+Live: https://task-manager-5ao.pages.dev/
